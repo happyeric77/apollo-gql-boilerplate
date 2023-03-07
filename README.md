@@ -22,7 +22,7 @@ yarn dev
 
 4. Modify Schema in typeDefs constant / Resolvers in resolvers constant
 
-- Schema
+- Schema (./src/schema)
 
 ```
 const typeDefs = gql(`
@@ -31,7 +31,7 @@ const typeDefs = gql(`
 `);
 ```
 
-- Resolver
+- Resolver (./src/resolvers)
 
 ```
 const resolvers = {
