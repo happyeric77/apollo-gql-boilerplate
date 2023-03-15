@@ -5,5 +5,5 @@ import { typeDefs } from "./schema";
 const apolloServer = new ApolloServer({ typeDefs, resolvers });
 
 apolloServer.listen().then((res) => {
-  console.log("Listen to", res.url);
+  console.log("Listen to ", res.url);
 });
