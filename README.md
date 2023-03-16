@@ -5,7 +5,7 @@
 1. Clone boilerplate
 
 ```
-git clone
+git clone git@github.com:happyeric77/apollo-gql-boilerplate.git
 ```
 
 2. Install dependency
